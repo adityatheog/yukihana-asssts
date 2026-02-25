@@ -9,9 +9,9 @@
 
 <p align="center">
   
-  <img src="https://img.shields.io/github/stars/RayExo/yukihana?style=for-the-badge" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/RayExo/yukihana?style=for-the-badge" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/RayExo/yukihana?style=for-the-badge" alt="Issues"/>
+  <img src="https://img.shields.io/github/stars/adityatheog/yukihana?style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/adityatheog/yukihana?style=for-the-badge" alt="Forks"/>
+  <img src="https://img.shields.io/github/issues/adityatheog/yukihana?style=for-the-badge" alt="Issues"/>
 </p>
 
 # 🎵 Yukihana
