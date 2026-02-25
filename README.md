@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/adityatheog/.github/refs/heads/main/header.jpg)
+![Header](https://raw.githubusercontent.com/adityatheog/yukihana-assets/refs/heads/main/yukihana.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
@@ -249,7 +249,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 👥 Credits
 
-**Yukihana** is maintained by [The adityatheog Project](https://github.com/adityatheog) and created by **adityatheog**.
+**Yukihana** is maintained by [The A7 Devlopment Project](https://github.com/adityatheog) and created by **adityatheog**.
 
 ---
 
